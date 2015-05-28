@@ -1,0 +1,15 @@
+
+@media (max-width: 800px) {
+  .box-one {
+  	display: none;
+  }
+
+
+  .grid figure {
+  	float: none;
+  }
+
+  main h1 {
+  	text-align: left;
+  }
+}

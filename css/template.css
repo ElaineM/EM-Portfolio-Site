@@ -1,0 +1,41 @@
+#pnpt-two h2{
+	text-align: center;
+}
+
+#pnpt-two h3 {
+	text-align: center;
+}
+
+.section-contain{
+	width: 700px;
+	margin: 0 auto;
+}
+.value-prop{
+	width: 200px;
+	height: 200px;
+	background-color: grey;
+	float: left;
+	margin-right: 7.1%;
+}
+
+.value-prop:last-child {
+	margin-right: 0;
+}
+
+.value-number {
+	background-color: #000;
+	color: white;
+	padding: 5%;
+	border-radius: 50%;
+	margin: 5% 40%;
+	text-align: center;
+}
+
+.value-prop h4, .value-prop h5{
+	text-align: center;
+}
+
+.value-prop h5 {
+font-weight: lighter;
+}
+

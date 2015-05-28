@@ -1,0 +1,105 @@
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica;
+}
+
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+.pnpt-section{
+	padding: 10px;
+	background: white;
+	outline: 1px solid black;
+}
+
+.pnpt-section .section-title {
+	font-weight: lighter;
+	font-size: 18px;
+	font-family: 'Lobster', cursive;
+}
+
+.pnpt-title{}
+
+#pnpt-one {
+	background-image: url("img/pinpoint_header.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #464646;
+}
+
+#pnpt-one h1 {
+	width: 100%;
+	font-family: 'Lobster', cursive;
+	font-size: 80px;
+	padding-top: 150px;
+	margin-left: 40px;
+	color: white;
+}
+
+#pnpt-two{}
+#pnpt-three {}
+#pnpt-four {} 
+#pnpt-five{}
+#pnpt-six{}
+#pnpt-seven{}
+#pnpt-eight{}
+#pnpt-ten{}
+
+
+.intrvw {}
+.intrvw-wrap {}
+.intrvw-left {}
+.intrvw-right{}
+.intrvw-bottom {}
+
+.persona-wrap {}
+.persona-left {}
+.persona-right{}
+.persona-bttm {}
+
+.search-wrap {}
+
+.notif-wrap {}
+
+.g-row {
+	width: 100%;
+}
+
+.g-row .g-column-1 {
+	width: 100%;
+	float: left;
+}
+
+.g-row .g-column-2 {
+	width: 48%;
+	margin: 0 1%;
+	float: left;
+}
+
+.g-row .g-column-3 {
+	width: 31.33333%;
+	margin: 0 1%;
+	float: left;
+}
+
+.outline {
+	outline: #000 1px solid;
+}
+
+@media all and (min-width: 860px){
+	.g-row .g-column-2, .g-row .g-column-3 {
+		width: 100%;
+	}
+}
+

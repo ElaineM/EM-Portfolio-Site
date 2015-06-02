@@ -1,18 +1,23 @@
-#pnpt-two h2{
+.pnpt-section {
+	padding-top: 3%;
+}
+
+.pnpt-section h2{
 	text-align: center;
 }
 
-#pnpt-two h3 {
+.pnpt-section h3 {
 	text-align: center;
 }
 
 .section-contain{
 	width: 700px;
 	margin: 0 auto;
+	padding-top: 5%;
 }
 .value-prop{
 	width: 200px;
-	height: 200px;
+	height: 300px;
 	background-color: grey;
 	float: left;
 	margin-right: 7.1%;
@@ -39,3 +44,18 @@
 font-weight: lighter;
 }
 
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  
+  -webkit-flex-flow: row wrap;
+  
+  justify-content: space-around;
+}

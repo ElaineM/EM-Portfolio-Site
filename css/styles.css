@@ -2,6 +2,8 @@
 	font-family: Helvetica;
 	box-sizing: border-box;
 }
+
+header h1 {padding-left: 25px;}
 header {
 	width: 100%;
 	overflow: hidden;

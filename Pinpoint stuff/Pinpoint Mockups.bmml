@@ -1,0 +1,203 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1328" measuredH="3084" mockupW="1328" mockupH="3084">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1" y="0" w="1100" h="600" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="151" y="182" w="800" h="403" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <shape>rectangle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextArea" x="1128" y="42" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Browser%20size%3A%201100x600%0AContainer%3A%20800x400</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="16" y="90" w="-1" h="-1" measuredW="96" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>User%20Interviews</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="460" y="146" w="-1" h="-1" measuredW="183" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Questions%2C%20Answers%20%26%20Analysis</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Paragraph" x="176" y="231" w="601" h="80" measuredW="275" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>What%20are%20some%20of%20your%20biggest%20challenges%20at%20work%3F%0A%22Our%20technology%20is%20kind%20of%20dated%20and%20I%u2018m%20already%20juggling%20so%20many%20things.%20It%u2018s%20exhausting%20being%20the%20%22go-to%20%22%20IT%20person%20in%20my%20office.%20The%20requests%20for%20help%20are%20just%20constant.%22%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Paragraph" x="176" y="298" w="601" h="80" measuredW="275" measuredH="80" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>What%20do%20you%20do%20when%20someone%20asks%20for%20help%20with%20their%20computer%3F%0A%22I%20like%20technology%2C%20but%20using%20a%20spreadsheet%20to%20keep%20track%20of%20our%20computers%2C%20software%2C%20cloud%20services%2C%20server%2C%20and%20phone%20system%20is%20not%20efficient.%20at%20all.%22%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="__group__" x="163" y="424" w="179" h="38" measuredW="179" measuredH="38" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="0" w="179" h="-1" measuredW="100" measuredH="10" zOrder="0" locked="false" isInGroup="11"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="17" w="-1" h="-1" measuredW="119" measuredH="21" zOrder="1" locked="false" isInGroup="11">
+          <controlProperties>
+            <text>Analysis%20of%20Findings</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Paragraph" x="176" y="367" w="601" h="80" measuredW="275" measuredH="80" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>How%20much%20do%20you%20know%20about%20IT%3F%0A%22Sometimes%2C%20IT%20stuff%20totally%20overwhelms%20my%20workday.%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Paragraph" x="176" y="477" w="742" h="80" measuredW="275" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>My%20interviews%20with%20office%20managers%20and%20executive%20assistants%20indicates%20that%20there%20is%20a%20need%20for%20organizing%20data%20to%20make%20IT%20management%20easier%20for%20those%20without%20a%20formal%20training%20in%20information%20technology.%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1" y="615" w="1100" h="600" measuredW="450" measuredH="400" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::RoundButton" x="151" y="797" w="800" h="403" measuredW="32" measuredH="32" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <shape>rectangle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="16" y="705" w="-1" h="-1" measuredW="48" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Persona</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="476" y="761" w="-1" h="-1" measuredW="151" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Anna%2C%20Office%20Manager%2C%2026</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Image" x="163" y="846" w="151" h="162" measuredW="77" measuredH="79" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Paragraph" x="329" y="846" w="604" h="171" measuredW="275" measuredH="80" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Office%20manager%20for%20a%20small%20creative%20agency%0A%20%0AStudied%20English%20Literature%20in%20college%0A%20%0AShe%20is%20enthusiastic%20and%20a%20quick%20learner%2C%20but%20she%20is%20frequently%20tasked%20with%20IT%20problems%20that%20she%20struggles%20to%20understand%0A%20%0AThe%20company%20she%20works%20for%20does%20not%20have%20a%20large%20IT%20budget%0A%20%0AShe%20often%20has%20to%20do%20the%20legwork%20of%20calling%201-800%20numbers%20and%20doing%20online%20research</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="163" y="1032" w="-1" h="-1" measuredW="58" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Behaviors</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Paragraph" x="163" y="1060" w="337" h="121" measuredW="275" measuredH="80" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Will%20occasionally%20call%20in%20an%20IT%20professional%2C%20but%20has%20to%20provide%20a%20quote%20and%20request%20permission%20from%20her%20boss%20first%0A%20%0AIs%20often%20tasked%20with%20making%20IT%20decisions%20for%20the%20business%20and%20has%20to%20educate%20her%20boss%20and%20colleagues%20on%20why%20she%20has%20chosen%20a%20particular%20option</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="519" y="1032" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pain%20Points</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Paragraph" x="519" y="1060" w="432" h="140" measuredW="275" measuredH="80" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>IT%20requests%20often%20get%20buried%20in%20Anna%E2%u20AC%u2122s%20email%20or%20an%20initial%20request%20is%20dealt%20with%2C%20but%20there%20is%20little%20or%20delayed%20follow%20up%0A%20%0AInformation%20about%20computers%20and%20network%20hardware%20is%20inconsistently%20captured%0A%20%0AAnna%20feels%20inadequate%20when%20an%20IT%20customer%20support%20rep%20asks%20for%20information%20and%20she%20cannot%20promptly%20locate%20the%20information%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="1239" w="1100" h="600" measuredW="450" measuredH="400" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::RoundButton" x="150" y="1421" w="800" h="403" measuredW="32" measuredH="32" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <shape>rectangle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::TextArea" x="1127" y="1281" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Browser%20size%3A%201100x600%0AContainer%3A%20800x400</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="15" y="1329" w="-1" h="-1" measuredW="41" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="504" y="1385" w="-1" h="-1" measuredW="59" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>User%20Flow</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="1854" w="1100" h="600" measuredW="450" measuredH="400" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::RoundButton" x="150" y="2036" w="800" h="403" measuredW="32" measuredH="32" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <shape>rectangle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Label" x="15" y="1944" w="-1" h="-1" measuredW="41" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Paragraph" x="163" y="1463" w="769" h="80" measuredW="275" measuredH="80" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Use%20case%3A%20You%20need%20to%20send%20a%20colleague%u2018s%20computer%20back%20to%20Apple%20for%20repair.%20Locate%20the%20colleague%u2018s%20warranty%20information%20for%20the%20AppleCare%20support%20representative.</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Image" x="163" y="1534" w="-1" h="-1" measuredW="597" measuredH="217" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Screen%2520Shot%25202015-05-30%2520at%25203.52.48%2520PM.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="519" y="2000" w="-1" h="-1" measuredW="60" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>UI%20Design</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Image" x="329" y="2075" w="448" h="334" measuredW="830" measuredH="618" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Screen%2520Shot%25202015-05-30%2520at%25203.56.53%2520PM.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1" y="2484" w="1100" h="600" measuredW="450" measuredH="400" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::RoundButton" x="151" y="2667" w="800" h="403" measuredW="32" measuredH="32" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <shape>rectangle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Label" x="16" y="2575" w="-1" h="-1" measuredW="41" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Label" x="522" y="2631" w="-1" h="-1" measuredW="58" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Prototype</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="__group__" x="209" y="2678" w="684" h="381" measuredW="684" measuredH="381" zOrder="36" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="0" y="0" w="684" h="381" measuredW="300" measuredH="200" zOrder="0" locked="false" isInGroup="69"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="684" h="335" measuredW="747" measuredH="401" zOrder="1" locked="false" isInGroup="69">
+          <controlProperties>
+            <src>./assets/Screen%2520Shot%25202015-05-30%2520at%25204.02.53%2520PM.png</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
